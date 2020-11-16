@@ -1,6 +1,6 @@
 # Investigating the Sakila DVD Rental Database
 
-This is the landing page showcasing a SQL project I conducted as part of my completion of the 4-month "Programming for Data Science with Python" nanodegree - an online coding bootcamp by Udacity. In this project, I queried Udacity's web-based copy of the PostgreSQL sample database, [Sakila](https://dev.mysql.com/doc/sakila/en/), which contains data from a DVD rental company.
+This is the landing page showcasing a SQL project I conducted as part of my completion of the 4-month "Programming for Data Science with Python" nanodegree - an online coding bootcamp by Udacity. For this project, I queried a local copy of the PostgreSQL sample database, [Sakila](https://dev.mysql.com/doc/sakila/en/), which contains data from a DVD rental company. I restored a copy of this database to my own PostgreSQL and executed the SQL queries through the pgAdmin interface.
 
 I queried the database to create several aggregations of the data, including summations of number of rentals for family genre movies, quartiles of rental durations, and counts of rentals by stores.
 
